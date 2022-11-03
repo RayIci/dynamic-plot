@@ -32,3 +32,9 @@ pip install matplotlib
 pip install bokeh
 pip install plotly
 ```
+
+## Link utili
+Elencati qua sotto si possono trovare i link relativi alle pagine principali delle librerie utilizzate:
+- [Matplotlib](https://matplotlib.org/)
+- [Bokeh](https://bokeh.org/)
+- [Plotly](https://plotly.com/)
